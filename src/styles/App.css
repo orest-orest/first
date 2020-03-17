@@ -9,3 +9,19 @@ width: 20px;
 heigth: 20px;
 border-radius: 50%;
 }
+
+.bomb {
+margin-left: 50%;
+}
+
+.first-button {
+background-color: blue;
+}
+
+.second-button {
+background-color: red;
+}
+
+.third-button {
+background-color: green;
+}
