@@ -1,23 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b5bdc3f-51c1-49a5-b9ad-a1af6d963d4c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/actions/action-types.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/actions/sample-action.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/News.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/initial-state.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/root-reducer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/sample-reducer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store.jsx" afterDir="false" />
+    <list default="true" id="6b5bdc3f-51c1-49a5-b9ad-a1af6d963d4c" name="Default" comment="First commit.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,7 +20,7 @@
       <file leaf-file-name="News.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/News.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="17">
               <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
@@ -126,15 +112,6 @@
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -332,12 +309,20 @@
       <workItem from="1584349723406" duration="1672000" />
       <workItem from="1584351798417" duration="2007000" />
       <workItem from="1584359494957" duration="8723000" />
-      <workItem from="1584449279026" duration="6639000" />
+      <workItem from="1584449279026" duration="7947000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit.">
+      <created>1584456236778</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584456236778</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115011000" />
+    <option name="totallyTimeSpent" value="116319000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -353,9 +338,10 @@
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23805602" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32869565" />
+      <window_info anchor="bottom" id="Messages" weight="0.32864675" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5045417" side_tool="true" weight="0.28794992" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.00921659" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.008787346" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4954583" weight="0.2231986" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49628407" weight="0.63971883" />
@@ -377,7 +363,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="First commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -385,7 +372,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/react-boilerplate/src/index.js" />
     <entry file="file://$PROJECT_DIR$/react-boilerplate/src/components/App.js" />
     <entry file="file://$PROJECT_DIR$/react-boilerplate/src/index.html" />
     <entry file="file://$PROJECT_DIR$/react-boilerplate/src/index.html" />
@@ -550,9 +536,12 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/News.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="17">
           <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
